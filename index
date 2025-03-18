@@ -96,8 +96,8 @@
         <div class="header-content">
             <!-- Add your profile picture here -->
             <img src="passport photo.jpg" alt="Your Profile Picture" class="profile-picture">
-            <h1>Pranesh S</h1>
-            <p>Am Mechanical Engineer</p>
+            <h1>veronica j</h1>
+            <p>Am bachelor of computer application</p>
         </div>
     </header>
 
@@ -106,7 +106,8 @@
             <li><a href="#about">About</a></li>
             <li><a href="#education">Education</a></li>
             <li><a href="#skills">Skills</a></li>
-            <li><a href="#projects">Projects</a></li>
+            <li><a href="#internship">internship</a></li>
+            <li><a href="#certificate">certificate</a></li>
             <li><a href="#resume">Resume</a></li>
            
         </ul>
