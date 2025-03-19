@@ -106,7 +106,6 @@
             <li><a href="#about">About</a></li>
             <li><a href="#education">Education</a></li>
             <li><a href="#skills">Skills</a></li>
-            <li><a href="#internship">internship</a></li>
             <li><a href="#certificate">certificate</a></li>
             <li><a href="#resume">Resume</a></li>
            
@@ -137,22 +136,20 @@
             <ul>
                 <li>Cloud Computing</li>
                 <li>Python</li>
-                <li>Spring</li>
-                <li>ML & AI</li>
+                <li>Ms-office</li>
                 <li>java</li>
                 <li>c++</li>
             </ul>
         </div>
     </section>
 
-    <section id="internship">
+    <section id="certificate">
         <div class="section-content">
-            <h2>Projects</h2>
+            <h2>certificate</h2>
             <ul>
-                <li><a href="#">E Cart website</a></li>
-                <li><a href="#">Cloud Security IBM</a></li>
-                <li><a href="#">IBM chatbot</a></li>
-                <li><a href="#">College Portal</a></li> 
+                <li>Certificate for presentation communicating with impact from IBM skills build</li>
+                <li>Certificate for object oriented programming using python from Infosys|springboard</li>
+                <li>Certificate for completing TNSDC-FEWD&CLOUD from IBM skills build</li>
                 <!-- Add more project links here -->
             </ul>
         </div>
